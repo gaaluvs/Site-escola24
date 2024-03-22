@@ -1,6 +1,10 @@
-header  {
+.cabecalho{
     background-color:#FF0000 ;
     color: white;
-
 }
+
+.cabecalho-imagem{
+  width: 20%;
+}
+
 cor do texto em verde: 0CB91D
