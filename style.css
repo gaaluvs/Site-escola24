@@ -9,4 +9,10 @@
   width: 20%;
 }
 
+.cabecalho-item-lista{
+  display: inline-block;
+  margin: 0 16px;
+  padding: 24px 0;
+}
+
 cor do texto em verde: 0CB91D
