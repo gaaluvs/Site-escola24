@@ -17,4 +17,9 @@
   font-size: 24px;
 }
 
+* {
+margin: 0;
+padding: 0;
+}
+
 cor do texto em verde: 0CB91D
