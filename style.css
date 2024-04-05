@@ -3,18 +3,18 @@
     color: white;
     display: flex;
     justify-content: space-around;
-    padding: 24px 0;
+    padding: 18px 0;
 }
 
 .cabecalho-imagem{
   width: 20%;
 }
 
-.cabecalho-item-lista{
+.cabecalho-lista-item{
   display: inline-block;
   margin: 0 16px;
-  padding: 24px 0;
-  font-size: 24px;
+  padding: 10px 0;
+  font-size: 20px;
 }
 
 * {
@@ -22,4 +22,24 @@ margin: 0;
 padding: 0;
 }
 
-cor do texto em verde: 0CB91D
+.whey-imagem{
+  width:10%;
+  
+}
+
+.power{
+  background-image: linear-gradient(#FF0000, #000000) ;
+  color:white;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.power-titulo{
+  padding: 24px 0;
+}
+
+.power-titulo-dois{
+  padding: 14px 0;
+}
