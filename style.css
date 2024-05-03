@@ -49,26 +49,39 @@ padding: 0;
   padding: 14px 0;
 }
 
-button{
-  position: relative;
-  border: none;
-  transition: .4s ease-in;
-  z-index: 1;
-}
-button::before,
-button::after{
-  position: absolute;
-  content: "";
-  z-index: -1;
+.equipe-imagem{
+  width: 100px;
 }
 
-.btn-1:hover{
-  background: #ff96ad;
-  box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad;
+.equipe-icone{
+  width: 24px;
 }
 
-.btn-2:hover:hover{
-  background: #ff96ad;
-  box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad;
+.equipe-div{
+  text-align: center;
+}
 
+.equipe-titulo{
+  text-align: center;
+  padding: 45px 0;
+}
+
+.equipe-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20%;
+  padding: 30px 0;
+}
+
+footer{
+  background-color: #FF0000;
+  padding: 2px;
+  text-align: center;
+}
+
+.pwslogo-footer{
+  width: 175px; 
+}
+
+.nossa-equipe{
+  background-color: #D9D9D9;
 }
